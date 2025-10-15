@@ -35,7 +35,7 @@ tabs.forEach((tab, index) =>{
 
 
 const questions = document.querySelectorAll('.question')
-const faqItem = document.querySelectorAll('.faq-item')
+
 
 questions.forEach(question =>{
     question.addEventListener('click', ()=>{
